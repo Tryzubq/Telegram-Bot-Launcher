@@ -11,9 +11,7 @@ run from one shared desktop launcher with no coding required.
 - 🎯 **Multiple output formats** — 9:16 full-frame, 4:3, 1:1 square, or a
   facecam+gameplay split layout, each with your choice of background
   style (blur, dark blur, solid black, solid white).
-- 💬 **Auto-generated subtitles** — optional local speech-to-text burns
-  captions onto every clip, no API key or per-clip cost.
-- 🏆 **Video Rater Bot** — send clips one at a
+-🏆 **Video Rater Bot** — send clips one at a
   time and build a single growing "ranking countdown" video, with AI or
   your own titles for each entry.
 - 🖥️ **One shared desktop launcher** — pick a bot, paste your keys,
